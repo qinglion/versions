@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinglion/binaries/releases/download/1.0.00001/Void-darwin-x64-1.0.00001.zip",
-  "name": "1.0.00001",
-  "version": "925638b32498fae84a3675a1c6e0748772ecc855",
-  "productVersion": "1.0.1.0",
-  "hash": "e4d5e0a159d99b1ad332f22c25f02f513c599f9b",
-  "timestamp": "1748858015826",
-  "sha256hash": "c0245521df84064b2080bf3f1020c65645e6841424f2b6fcb9e5b2ab0d9f281c"
+  "url": "https://github.com/qinglion/binaries/releases/download/1.0.00002/QingLion-darwin-x64-1.0.00002.zip",
+  "name": "1.0.00002",
+  "version": "4b3df3cc3613fb1fdaa098af50f869aac9f72ac9",
+  "productVersion": "1.0.2.0",
+  "hash": "81095a256b60b0ecfafdd893f1fd32da855ef342",
+  "timestamp": "1748919093498",
+  "sha256hash": "99ad2d52b4e7da3be205134faef8ed3c99d1c04fa0d2b990910733ddcd14a3e7"
 }
