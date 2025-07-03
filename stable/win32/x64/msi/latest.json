@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinglion/binaries/releases/download/1.0.00002/QingLion-x64-1.0.00002.msi",
-  "name": "1.0.00002",
-  "version": "afd81d36343fd2b87095165342855aee70095a37",
-  "productVersion": "1.0.2.0",
-  "hash": "e10d4823f73726c82e9341fe916f9613d4b5d723",
-  "timestamp": "1748950623166",
-  "sha256hash": "c6fe7a0f90d36900beea88778e9a3bce89b9372559b50bd6cfaaf1001ecd2529"
+  "url": "https://github.com/qinglion/binaries/releases/download/1.0.00012/QingLion-x64-1.0.00012.msi",
+  "name": "1.0.00012",
+  "version": "65bc2befab3a1b8bbba8a6d283ad814c125d6919",
+  "productVersion": "1.0.12.0",
+  "hash": "5ec465ff03faab4c003b5fb7d0c9fb8d11976192",
+  "timestamp": "1751526902636",
+  "sha256hash": "1cd5743b3682dd9ea71a90c22adadebeb15d1a5f1be9a21485b4386b4fa7f53a"
 }

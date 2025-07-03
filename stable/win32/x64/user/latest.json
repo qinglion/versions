@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinglion/binaries/releases/download/1.0.00002/QingLionUserSetup-x64-1.0.00002.exe",
-  "name": "1.0.00002",
-  "version": "afd81d36343fd2b87095165342855aee70095a37",
-  "productVersion": "1.0.2.0",
-  "hash": "dd82f46f8f34f764037a41154338e8624062b59a",
-  "timestamp": "1748950622822",
-  "sha256hash": "42f7523455f85dd2415088afb4a8bc4b18e0e0493d1b01237ea26d98bdd5abfd"
+  "url": "https://github.com/qinglion/binaries/releases/download/1.0.00012/QingLionUserSetup-x64-1.0.00012.exe",
+  "name": "1.0.00012",
+  "version": "65bc2befab3a1b8bbba8a6d283ad814c125d6919",
+  "productVersion": "1.0.12.0",
+  "hash": "2e8695cb6f6388dff2ab3f107d1eef86bcf36605",
+  "timestamp": "1751526902183",
+  "sha256hash": "d1fdb41cf0486493164cbb99982c569edb888f19b2bb5cea3c1cbe140bcb89e2"
 }
