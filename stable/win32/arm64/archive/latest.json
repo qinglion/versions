@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinglion/binaries/releases/download/1.0.00002/QingLion-win32-arm64-1.0.00002.zip",
-  "name": "1.0.00002",
-  "version": "afd81d36343fd2b87095165342855aee70095a37",
-  "productVersion": "1.0.2.0",
-  "hash": "ba0cebcc7f0d04883badd1c217f822b6a236029f",
-  "timestamp": "1748948966138",
-  "sha256hash": "b4b800e0c88fa46c1c1d5e19f7097475b7fc8f200e633741b7a1ec3fd6693365"
+  "url": "https://github.com/qinglion/binaries/releases/download/1.0.00012/QingLion-win32-arm64-1.0.00012.zip",
+  "name": "1.0.00012",
+  "version": "65bc2befab3a1b8bbba8a6d283ad814c125d6919",
+  "productVersion": "1.0.12.0",
+  "hash": "3ca001ee9f13f8215aec831be0f41426362366fe",
+  "timestamp": "1751525361178",
+  "sha256hash": "de592eccb45a18f3ee4189544b08f1551f7c055cd05a700b9d25a6e2f60833c8"
 }
