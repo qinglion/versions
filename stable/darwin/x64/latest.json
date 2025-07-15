@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/qinglion/binaries/releases/download/1.0.00026/QingLion-darwin-x64-1.0.00026.zip",
-  "name": "1.0.00026",
-  "version": "bcaa3130eae572fc64312e935b4ff2d7bf83ce53",
-  "productVersion": "1.0.26.0",
-  "hash": "6b9ab71eece1ad01f855117da57140ef6d48fbf3",
-  "timestamp": "1752574253642",
-  "sha256hash": "4e1bea97fa3d9339d12682413f6b9c2a1cf7c1c4f1d18d9fb13ac88a517b8e8a"
+  "url": "https://github.com/qinglion/binaries/releases/download/1.0.00027/QingLion-darwin-x64-1.0.00027.zip",
+  "name": "1.0.00027",
+  "version": "95eea1924e4fe62249a35ef900a39824fb9dd7da",
+  "productVersion": "1.0.27.0",
+  "hash": "590003f8fb4c139b9297ba2ebb6ca294aa606b6d",
+  "timestamp": "1752587836132",
+  "sha256hash": "5670fb6e1faa97806212c5b91a5afb380754ae7f0d7cf0f0a883ee3828af2d75"
 }
