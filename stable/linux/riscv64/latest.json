@@ -1,9 +1,10 @@
 {
-  "url": "https://github.com/qinglion/binaries/releases/download/1.0.00002/QingLion-linux-riscv64-1.0.00002.tar.gz",
-  "name": "1.0.00002",
-  "version": "afd81d36343fd2b87095165342855aee70095a37",
-  "productVersion": "1.0.2.0",
-  "hash": "9994ca499d2c8deca84fc1d60edefa84d8f8ada2",
-  "timestamp": "1748966571505",
-  "sha256hash": "4c62633ea4d5672f496480ed65ea86c68faf3492da96e76178cf727c1d3fb343"
+  "url": "https://d.qinglion.com/QingLion/1.0.00032/linux/QingLion-linux-riscv64-1.0.00032.tar.gz",
+  "name": "1.0.00032",
+  "version": "09fb39075f6514b42c9c0fa4dc5e14d80d37cfab",
+  "productVersion": "1.0.32.0",
+  "hash": "bc98d47c018635fc8b2f812892ccb883e9d579c3",
+  "timestamp": "1753587993075",
+  "sha256hash": "00b93a886b648eaaac09bb94c580e5db2afc428e97624ba667e600deca04b088",
+  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00032/linux/QingLion-linux-riscv64-1.0.00032.tar.gz"
 }
