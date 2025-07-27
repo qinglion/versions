@@ -1,9 +1,10 @@
 {
-  "url": "https://github.com/qinglion/binaries/releases/download/1.0.00002/QingLion-linux-armhf-1.0.00002.tar.gz",
-  "name": "1.0.00002",
-  "version": "afd81d36343fd2b87095165342855aee70095a37",
-  "productVersion": "1.0.2.0",
-  "hash": "7932768d6381d25b4a02fb142ab7d4fb0514d977",
-  "timestamp": "1748967091722",
-  "sha256hash": "0eadc1fe9ae1d8beb12e75c9db8e0d1db0e6debdcf7abdb15fb885d5cca82601"
+  "url": "https://d.qinglion.com/QingLion/1.0.00032/linux/QingLion-linux-armhf-1.0.00032.tar.gz",
+  "name": "1.0.00032",
+  "version": "09fb39075f6514b42c9c0fa4dc5e14d80d37cfab",
+  "productVersion": "1.0.32.0",
+  "hash": "ca5c11f2cc774004ec504c7484548a71c5d35a2a",
+  "timestamp": "1753588525846",
+  "sha256hash": "58dfc7534f770350464a92999c4324bf27d86e6e3b0b74a5bf167e669635a460",
+  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00032/linux/QingLion-linux-armhf-1.0.00032.tar.gz"
 }
