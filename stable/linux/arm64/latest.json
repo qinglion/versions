@@ -1,9 +1,10 @@
 {
-  "url": "https://github.com/qinglion/binaries/releases/download/1.0.00002/QingLion-linux-arm64-1.0.00002.tar.gz",
-  "name": "1.0.00002",
-  "version": "afd81d36343fd2b87095165342855aee70095a37",
-  "productVersion": "1.0.2.0",
-  "hash": "197ba20f76b7facf7bb1ee57611bfb220639d75b",
-  "timestamp": "1748967174306",
-  "sha256hash": "63056839e2a7d54dd5255cec24428e89ad01200cffebc59c6b5f61c230054f26"
+  "url": "https://d.qinglion.com/QingLion/1.0.00032/linux/QingLion-linux-arm64-1.0.00032.tar.gz",
+  "name": "1.0.00032",
+  "version": "09fb39075f6514b42c9c0fa4dc5e14d80d37cfab",
+  "productVersion": "1.0.32.0",
+  "hash": "9399744cb49e399c180dab302cf49197d31f1081",
+  "timestamp": "1753588531626",
+  "sha256hash": "28dd2a61b6172aee6596305d1d9f69477c05e6ae5393cc063f9917621645b5ed",
+  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00032/linux/QingLion-linux-arm64-1.0.00032.tar.gz"
 }
