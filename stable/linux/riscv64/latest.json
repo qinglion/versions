@@ -1,10 +1,10 @@
 {
-  "url": "https://d.qinglion.com/QingLion/1.0.00032/linux/QingLion-linux-riscv64-1.0.00032.tar.gz",
-  "name": "1.0.00032",
-  "version": "09fb39075f6514b42c9c0fa4dc5e14d80d37cfab",
-  "productVersion": "1.0.32.0",
-  "hash": "bc98d47c018635fc8b2f812892ccb883e9d579c3",
-  "timestamp": "1753587993075",
-  "sha256hash": "00b93a886b648eaaac09bb94c580e5db2afc428e97624ba667e600deca04b088",
-  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00032/linux/QingLion-linux-riscv64-1.0.00032.tar.gz"
+  "url": "https://d.qinglion.com/QingLion/1.0.00033/linux/QingLion-linux-riscv64-1.0.00033.tar.gz",
+  "name": "1.0.00033",
+  "version": "7a3d78224a4c241c39a6610f11b77d8f47aa1839",
+  "productVersion": "1.0.33.0",
+  "hash": "c2393877ff315fb195bd0e140e90f638a8bf7337",
+  "timestamp": "1753805665545",
+  "sha256hash": "29fb3c39c20718d6fef0eb6a19679b17dfcb309296ef02de15e60addf25107cc",
+  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00033/linux/QingLion-linux-riscv64-1.0.00033.tar.gz"
 }
