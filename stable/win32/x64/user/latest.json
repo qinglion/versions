@@ -1,10 +1,10 @@
 {
-  "url": "https://d.qinglion.com/QingLion/1.0.00036/win32/QingLionUserSetup-x64-1.0.00036.exe",
-  "name": "1.0.00036",
-  "version": "5d40436ab73a06f1648e586a9eba181dfbc516c6",
-  "productVersion": "1.0.36.0",
-  "hash": "f9fd9e1d27dc486fcb3ccc239d5a743d88074e04",
-  "timestamp": "1754384808688",
-  "sha256hash": "a78cf287b0dcb59ac19ed8b0b1196c6a675ae20da6ba03ca4bd524e242434888",
-  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00036/win32/QingLionUserSetup-x64-1.0.00036.exe"
+  "url": "https://d.qinglion.com/QingLion/1.0.00039/win32/QingLionUserSetup-x64-1.0.00039.exe",
+  "name": "1.0.00039",
+  "version": "cf7378041afef196616d1eb35cde3105e1a41a72",
+  "productVersion": "1.0.39.0",
+  "hash": "5ee5979f0a459c767281d9f07fbd9c6d68200c2f",
+  "timestamp": "1754539738672",
+  "sha256hash": "a906f1f7e997a1c27cfa0c61fe663fa2e4ed0b17dd44aa993320d581e8c11f2d",
+  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00039/win32/QingLionUserSetup-x64-1.0.00039.exe"
 }
