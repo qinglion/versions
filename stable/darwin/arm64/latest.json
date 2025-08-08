@@ -1,10 +1,10 @@
 {
-  "url": "https://d.qinglion.com/QingLion/1.0.00041/darwin/QingLion-darwin-arm64-1.0.00041.zip",
-  "name": "1.0.00041",
-  "version": "6611840bd9764046df6c9a655e04a9b920698b6c",
-  "productVersion": "1.0.41.0",
-  "hash": "1e9bcdf0ccc755bdf5773e76927542a9a70268c8",
-  "timestamp": "1754621272572",
-  "sha256hash": "38fa6749ea8b7eccd512a1374aa34ff140a4b0462ba1eddd4cb3cbb9322256d2",
-  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00041/darwin/QingLion-darwin-arm64-1.0.00041.zip"
+  "url": "https://d.qinglion.com/QingLion/1.0.00042/darwin/QingLion-darwin-arm64-1.0.00042.zip",
+  "name": "1.0.00042",
+  "version": "60bce85dc0fb7fb34c449f94a1a36b73944e8d98",
+  "productVersion": "1.0.42.0",
+  "hash": "b3e759bff2f2a0deae6eac8bc6c9a748eeafc600",
+  "timestamp": "1754635277464",
+  "sha256hash": "b4ed7f45f21d83b5d3b24cb02eee8413fdaaa00ed9269fced8ac83989ca31bd4",
+  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00042/darwin/QingLion-darwin-arm64-1.0.00042.zip"
 }
