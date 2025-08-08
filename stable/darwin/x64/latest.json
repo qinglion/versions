@@ -1,10 +1,10 @@
 {
-  "url": "https://d.qinglion.com/QingLion/1.0.00041/darwin/QingLion-darwin-x64-1.0.00041.zip",
-  "name": "1.0.00041",
-  "version": "6611840bd9764046df6c9a655e04a9b920698b6c",
-  "productVersion": "1.0.41.0",
-  "hash": "46512bcd4c391f263bc6b832da94f81718dd74e7",
-  "timestamp": "1754622261691",
-  "sha256hash": "7dc0db220477c90cea76f26772bd8872d88fe5b990e5509e006288929bd06c18",
-  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00041/darwin/QingLion-darwin-x64-1.0.00041.zip"
+  "url": "https://d.qinglion.com/QingLion/1.0.00042/darwin/QingLion-darwin-x64-1.0.00042.zip",
+  "name": "1.0.00042",
+  "version": "60bce85dc0fb7fb34c449f94a1a36b73944e8d98",
+  "productVersion": "1.0.42.0",
+  "hash": "e2c6c4db42f5a05a8c185a05534daaf33febe89e",
+  "timestamp": "1754636453287",
+  "sha256hash": "4dbc41aa7513af313aea8879f8cda1a5274234992672fc2e1a6b854d0c86a9f5",
+  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00042/darwin/QingLion-darwin-x64-1.0.00042.zip"
 }
