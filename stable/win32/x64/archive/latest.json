@@ -1,10 +1,10 @@
 {
-  "url": "https://d.qinglion.com/QingLion/1.0.00045/win32/QingLion-win32-x64-1.0.00045.zip",
-  "name": "1.0.00045",
-  "version": "06d910c4ed9b6f993e8058097fe5d64573aecf2f",
-  "productVersion": "1.0.45.0",
-  "hash": "5e9fac8a42a6498d0b0f736930f56ee446f928d1",
-  "timestamp": "1754814475984",
-  "sha256hash": "ee6af3690cdc4b2ba011ba49f8df5e75cc3613adc00a18ecaddeae17645b4135",
-  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00045/win32/QingLion-win32-x64-1.0.00045.zip"
+  "url": "https://d.qinglion.com/QingLion/1.0.00046/win32/QingLion-win32-x64-1.0.00046.zip",
+  "name": "1.0.00046",
+  "version": "4aa6851b2bd959f061606445cdd37eece1d58c08",
+  "productVersion": "1.0.46.0",
+  "hash": "33a1ae8282644838b032772e37f1e34a3b959cd4",
+  "timestamp": "1756804982199",
+  "sha256hash": "de4ea31458e260ba38a0a22439d18d05787d365963bfa801d38d316cfcdfe8f9",
+  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00046/win32/QingLion-win32-x64-1.0.00046.zip"
 }

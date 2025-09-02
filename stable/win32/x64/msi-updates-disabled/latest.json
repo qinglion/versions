@@ -1,10 +1,10 @@
 {
-  "url": "https://d.qinglion.com/QingLion/1.0.00045/win32/QingLion-x64-updates-disabled-1.0.00045.msi",
-  "name": "1.0.00045",
-  "version": "06d910c4ed9b6f993e8058097fe5d64573aecf2f",
-  "productVersion": "1.0.45.0",
-  "hash": "0398bd80d397510d1bd957a4848e09d04b47f799",
-  "timestamp": "1754814476421",
-  "sha256hash": "ca246d4d7998f0285b5e4d1489ef9c10ce9b95de37259417259968def5e9defc",
-  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00045/win32/QingLion-x64-updates-disabled-1.0.00045.msi"
+  "url": "https://d.qinglion.com/QingLion/1.0.00046/win32/QingLion-x64-updates-disabled-1.0.00046.msi",
+  "name": "1.0.00046",
+  "version": "4aa6851b2bd959f061606445cdd37eece1d58c08",
+  "productVersion": "1.0.46.0",
+  "hash": "1ac4fd8cd65d4657fe8ecd8356f1d69839dbdf1f",
+  "timestamp": "1756804982638",
+  "sha256hash": "fa88d35fe808e28f54c9fd0ef7cb56b961be1b72d09813bd322fbb5af7f340f5",
+  "oss_url": "https://qinglion.oss-accelerate.aliyuncs.com/QingLion/1.0.00046/win32/QingLion-x64-updates-disabled-1.0.00046.msi"
 }
